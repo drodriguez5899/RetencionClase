@@ -11,7 +11,7 @@
         <h1>Hello World!</h1>
         <form action="calcularetencion.jsp">
             Salario Bruto <input type="text" name="salario"><br>
-            <input type="submit" value="Calcular Iva">
+            <input type="submit" value="Calcular">
         </form>
     </body>
 </html>
